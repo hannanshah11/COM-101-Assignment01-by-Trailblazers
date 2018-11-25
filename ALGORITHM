@@ -1,0 +1,10 @@
+Step1: Start
+Step2: Enter expression
+Step3: Initialise i =0
+Step4: If Expr[i]=')'is true b++
+Step5: If Expr[i]='(' is true b-- else i++
+Step6: bf<o, break
+Step7: For bf==0 
+Step6: Print Balanced Paranthesis
+Step7: Else Print Unbalanced Paranthesis
+Step8: End
